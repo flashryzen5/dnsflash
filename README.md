@@ -1,2 +1,3 @@
 # dnsflash
-DNS options
+DNS server options
+just after some dns server options
