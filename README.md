@@ -1,0 +1,2 @@
+# dnsflash
+DNS options
